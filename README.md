@@ -1,1 +1,1 @@
-# Pythonin-alkeet
+# Aalto Junior Python ohjelmoinnin alkeet
